@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a clergy-man of the Church of England to an eminent divine pretending to be of the same church desiring his resolution and direction about a complyance with the present government, and especially about the alteration of the publick prayers.</title>
+            <author>Clergy-man of the Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47976</idno>
+            <idno type="STC">Wing L1370</idno>
+            <idno type="STC">ESTC R222056</idno>
+            <idno type="EEBO-CITATION">99833294</idno>
+            <idno type="PROQUEST">99833294</idno>
+            <idno type="VID">37770</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47976)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2173:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a clergy-man of the Church of England to an eminent divine pretending to be of the same church desiring his resolution and direction about a complyance with the present government, and especially about the alteration of the publick prayers.</title>
+                  <author>Clergy-man of the Church of England.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication conjectured by cataloger; publication date from Wing.</note>
+                  <note>Copy stained with print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Prayer-books and devotions --  Controversial literature --  Early works to 1800.</term>
+               <term>Church and state --  Great Britain --  Early works to 1800.</term>
+               <term>Church and state --  Church of England --  Early works to 1800.</term>
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:37770:1" rendition="simple:additions"/>
+            <head>A LETTER FROM A CLERGY-MAN OF THE <hi>Church of</hi> ENGLAND TO AN Eminent Divine Pretending to be of the ſame Church; Deſiring his Reſolution and Direction about a Complyance with the preſent Government, and eſpecially about the Alteration of the Publick Prayers.</head>
+            <opener>
+               <salute>Reverend Sir,</salute>
+            </opener>
+            <p>THe Poſt you are in, and the Character you bear, beſides ſome Perſonal Reſpects, induce me to apply my ſelf to you for your Aſsiſtance to remove ſome Doubts that Oppreſs my Conſcience; which I am bound (as indeed every one is) to give Satisfaction to, by an Impartial ſearch after Truth; and the Obligation is the greater upon me, becauſe I have Others to Inſtruct, and Anſwer for, as well as my Self; and who (if I miſlead them, either by my Doctrine, or Example) will one day lay great part of the blame upon me; I cannot therefore but be Solicitous how I behave my ſelf in this Caſe towards God, who will require of me ſome Account for other Mens Souls as well as of my own. I believe this Conſideration to be Apology enough for giving you this Trouble; and yet there is more to be ſaid: We are not now left at Liberty to ſuſpend our Judgments, But we are required to act in Complyance with the preſent Power: If we do not, we hazard our Liberty and Property; and if we do, (for all that I can ſee yet) we do more then hazard our Eternal Salvation. I know to a good Chriſtian it can be no queſtion, which if theſe ought to be preferred, when ever they are ſet in Competition, as in the preſent Caſe to me they are; but in Prudence I may, Nay! In Juſtice to my Self, and Family, I ought to endeavour, as far, as Honeſtly I can, to enjoy Peace in this World, as well as in the next. This makes me preſs for a removal of ſuch Doubts as ariſe in my way from the late and preſent Proceedings. And I muſt again and again inforce it, be<g ref="char:EOLhyphen"/>cauſe we <hi>Clergy-men</hi> have in ſome degree other Mens Conſciences to quiet as well as our own.</p>
+            <pb n="2" facs="tcp:37770:2"/>
+            <p> Therefore to come to the Buſineſs. I take it for granted that <hi>JAMES</hi> the Second was the True and Lawful Heir of theſe Kingdoms; after the Death of King <hi>CHARLES</hi> the Second of Bleſſed Memory; upon whoſe Deceaſe King <hi>JAMES</hi> ſucceeded to, and was rightly Inveſted with the Government of theſe Kingdoms, and all the Juſt Rights and Pre<g ref="char:EOLhyphen"/>rogatives belonging to the Imperial Crown of <hi>England.</hi> Now I deſire to be Informed by you <hi>Sir,</hi> or any Man elſe, by what Authority, or upon what Score, he is not Owned, Obey<g ref="char:EOLhyphen"/>ed, and Prayed for as King ſtill; ſince God (as far as we know) has not yet called Him into another World? His Deſerting, or Abdicating the Government, is a pretence ſo Fulſome and Naucious, that my Conſcience cannot get it down, whatever theirs can do, that have Revenge or Intereſt in the<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Minds to help to digeſt it. And eſpecially at this time of the Day, when the World <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nows from His Majeſties Letters to the Convention; and from His preſent Endeavours that He Deſires, and Reſolves to try (by the help of God and good Men) to Recover His Throne, out of which he has been ſtrangely Joſtled: I ſay ſtrangely, becauſe the Nation having been bubbled once before, by Men that pretended to keep our Religion and Property (as indeed they did, but it was from us, not for us, they proving juſt ſuch Patriots, as the <hi>Storke</hi> in the Fable, or the <hi>Oſtriches</hi> were Stewards) that we ſhould fall into a like Miſtake and Misfortune again, while our Teeth are yet on edge for the Soure Grapes that our Fathers Eat, <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s very ſurpriſing. But in our Age of Paradoxes, we will let the wonder alone, and come to our Duty.</p>
+            <p>Chriſt and his Apoſtles taught Submiſſion and Obedience to Kings and Emperours; yea, to the worſt of them; and the Primitive Chriſtians alwayes Believed, and Behaved them<g ref="char:EOLhyphen"/>ſelves accordingly, ſuffering patiently the extre<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>meſt Injuries in Goods and Perſon that an impe<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ous Cruelty could lay upon them: And this not for want of Courage; for how could they fear Death, that every day expected and ſuffered it; nor for want of Strength, for they were Numerous in their Cities, in their Forts, in their Armies, as we are aſſured by them that could tell. Now this very Doctrine of <hi>Paſſive Obedience</hi> or <hi>Non-Reſiſtance,</hi> is that which the Church of <hi>England</hi> was wont to value it ſelf upon, as that whereby it mani<g ref="char:EOLhyphen"/>feſted its <hi>Apoſtolick Primitive Spirit,</hi> and whereby we eminently diſtinguiſhed it from the <hi>Papiſts</hi> and <hi>Diſſenters,</hi> who we know, were wont to agree in this damnable Doctrine of <hi>Re<g ref="char:EOLhyphen"/>belling againſt,</hi> or <hi>Depoſing Kings.</hi> And becauſe Revenge, Love of the World, or fear of Perſecution, are apt to give a falſe Byaſs to Mens Judgements (as we ſee by woful Expe<g ref="char:EOLhyphen"/>perience, by the Gloſſes and Expoſitions that were given to the Doctrine of our Saviour and his Apoſtles profeſſed by this Church, by the Men of 41 now in Vogue again) The Church of <hi>England</hi> has taken a particular Care to make this Doctrine of <hi>Non-Reſiſtance</hi> her own, and to bind it upon her Sons by the ſtrongeſt Tyes that could be invented. For we of the Clergy muſt remember, that we are admitted into no Degree in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi> without aſſuring our Allegiance by Oath. Not that our Allegiance was not due before, but by our Oath we refer to God as a Witneſs and Judge of our Integrity, when we ſo declare to Men. When we enter into our <hi>Deacons</hi> Orders; we take the Oath of <hi>Allegiance</hi> and <hi>Su<g ref="char:EOLhyphen"/>premacy</hi> again, promiſing, <hi>To bear Faith and True Allegiance to the Kings Highneſs, His Heirs, and Lawful Succeſſors,</hi> (this is not all) <hi>and to our Power ſhall Aſſiſt and Defend all Juriſdictions, Priviledges, Pre-eminences, and Authorities, Granted or belonging to the Kings Highneſs, His Heirs and Succeſſors,</hi> &amp;c. And becauſe a Sect of Men had undertaken to exclude and ſet aſide their Oathes: Upon the Reſtoration of the Church with King <hi>Charles</hi> the 2d. the Three Eſtates of this Realm Aſſembled in Parliament, made a Solemn Recognition 12 <hi>Car.</hi> 2. <hi>cap.</hi> 30. That by <hi>the undoubted and Fundamental Laws of this Kingdom, neither the Peers of this Realm, nor the Commons, nor both together in Parliament, nor the People Collective<g ref="char:EOLhyphen"/>ly, not Repreſentatively, nor any other Perſons whatſoever, ever had, have, hath, or ought to have any Co-ercive Power over the Perſons of the Kings of their Realm;</hi> and to En<g ref="char:EOLhyphen"/>force this with all poſſible weight, and to Exclude that abſurd Notion of Co-ordination, by making the King one of the Three Eſtates, and therefore leſs and conſtructively infe<g ref="char:EOLhyphen"/>riour to the other Two, they made another Act 13 <hi>Car.</hi> 2. Declaring <hi>the Sword to be ſolely in the King's Power, and that neither one nor both Houſes in Parliament can, or Lawfully may Raiſe or Levy any War Offenſive or Defenſive againſt His Majeſty,</hi> &amp;c. Beſides this, there is a particular Declaration provided in the Act, for <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> over and above our Subſcrip<g ref="char:EOLhyphen"/>tion to the XXXIX. <hi>Articles,</hi> of which the XXXV. is not to be forgotten, <hi>viz.</hi> That <hi>it is not Lawful upon any pretence whatſoever, to take up Arms againſt the King,</hi> &amp;c. ſo very careful have both the Church and State been to Eſtabliſh Loyalty. They that deſire to ſee this Ar<g ref="char:EOLhyphen"/>gument diſcuſſed at large, let them among many more, read theſe Excellent Pieces, ☞ Dr. <hi>Hickes</hi>'s <hi>Jovian,</hi> Dr. <hi>Sherlock</hi> of <hi>Non-Reſiſtance,</hi> and Biſhop <hi>Morley</hi>'s Vindication of himſelf from Mr. <hi>Baxter.</hi>
+            </p>
+            <pb n="3" facs="tcp:37770:2"/>
+            <p> But this till removed, is a ſufficient Gag to my Conſcience, to keep me from acting and concurring with the preſent Power. And if this be the Doctrine of our Church and the Law of the Land, as by the Book of <hi>Homilies,</hi> the XXXIX. <hi>Articles,</hi> the <hi>Common-Prayer-Book,</hi> and <hi>Statute-Book</hi> undoubtedly it is: I would fain know by what means my Con<g ref="char:EOLhyphen"/>ſcience may be diſcharged from what I have Declared, and Sworn to be my Duty, that is, not only to Obey, but alſo to Defend and Maintain King <hi>James</hi> the Second, who is, and ought to be my Sovereign while God grants Him Life. I ſay, upon theſe Grounds, He ought to be our Sovereign ſtill. For <hi>Abdicating</hi> without His Will and Intention, is what I perſwade my ſelf, was never heard of before; and being without Precedent, I may truly ſay is without Senſe. I have been put in mind of Biſhop <hi>Sanderſon</hi>'s Caſe of Submiſſion to <hi>
+                  <g ref="char:V">Ʋ</g>ſurpers,</hi> and I have with great Pleaſure and Approbation, read that Judicious Treatiſe. But as I do not think the preſent Power, out of reſpect to their Credit, would make that its Foundation, ſo if they would, I cannot think that Caſe comes up at all to our Circum<g ref="char:EOLhyphen"/>ſtances; for I cannot let my ſelf down into ſo mean an Opinion of my Countrey-Mens Courage, whatever I think of their Honeſty, as to imagine that Eleven or Twelve Thou<g ref="char:EOLhyphen"/>ſand <hi>Dutch-Men,</hi> though each of them had Soul enough to inform his Bulk, or had Cou<g ref="char:EOLhyphen"/>rage equal to his Corps, were able to Conquer one County of <hi>England,</hi> well reſolved; and to ſay we have Conquered our ſelves, is like <hi>Abdicating</hi> againſt our wills, very Mon<g ref="char:EOLhyphen"/>ſtrous to any Man of Honour or Conſcience, we ought at leaſt to try the Proweſs of theſe <hi>Anakins,</hi> and not ingloriouſly without a Stroak become their Vaſſals, and pay them for it too, as we are like to do at a round Rate.</p>
+            <p>Sure we can no longer be ſo ſtupid, as not to ſee how ſome Men by the Noiſe and Pre<g ref="char:EOLhyphen"/>tence of an <hi>Impoſtor Prince,</hi> have Sham'd a King upon us. I confeſs I have the more reſent<g ref="char:EOLhyphen"/>ment, becauſe the Honour, as well as the Peace of a Mans Countrey is to be regarded; for as ſuch a Change, upon the Terms we muſt have it, makes us the wonder of ſome, it will inevitably make us the ſcorn of all. But I forget that where there is no Conſcience, there can be no Senſe of Honour; and therefore a Declamation may indeed eaſe my Spleen, but cannot be expected much to help their Judgments.</p>
+            <p>The Tyes of Religion and the Honour of our Countrey, which at preſent ſuffers extre<g ref="char:EOLhyphen"/>mity, being ſo Sacred, and ſo Inviolable, I am not able to give my ſelf any ſatisfaction, as to my Conſcience, (therefore Sir, I deſire it from you or any good Body) how we can In<g ref="char:EOLhyphen"/>nocently ſit ſtill and ſee our Sovereign Exterminated His Kingdom, and Deprived of His Crown and Dignities.</p>
+            <p>For the Maxim is evidently true in reſpect of Government, and Civil Community, That <hi>Malum qui non prohibet cum poſſit, jubet.</hi> In our Saviour's Phraſe, <hi>He that is not with the Government, is againſt it.</hi> And accordingly by our Law, ☞ <hi>He that Conceals Treaſon, is lyable to ſuffer an Acceſſary to it.</hi> If <hi>David</hi>'s Heart recoyled for cutting off the Skirt of <hi>Saul</hi>'s Garment, ours will fly in our Faces, to have Stript our King of all He has; And I cannot for my Life ſee how, without the greateſt Injuſtice, as well as the greateſt Baſeneſs, we can be quiet, and not heartily <hi>(bona fide)</hi> as before God, whoſe Anointed He is, endeavour His Reſtouration.</p>
+            <p>The Greateſt, I had almoſt ſaid, the Only Obſtacle worth Note, that appears to me, is the apprehenſion of the King's <hi>Popery,</hi> or exaſperated Indignation: but they muſt have a very mean Opinon indeed of the King's Judgment, that can think He will ſcruple to Re<g ref="char:EOLhyphen"/>ſtore by Pardon, not only His miſtaken, but moſt, if not all His Malicious Subjects: or that having felt the effects of falſe Meaſures, and ill Councels, He will again go about to advance His Religion ſo contrary to the Law and Genious of the Nation.</p>
+            <p>But if we can be ſo meanly perſwaded of the King's Intellect; let us not be ſo of God's Providence too: The Hearts of Kings are in his Hand, and he turns them as the Rivers of Water, whetherſoever he pleaſes; We are aſſured of God's Power and Providence, and why ſhould we doubt his Care and Kindneſs; if we do not forfeit it by going about to take his Work into our hands, to be our own Carvers? Methinks it is very prepoſterous to make Shipwrack of our Faith, for fear of a Storm of Perſecution; or, leaſt our Church ſhould ſplit upon the Rock of <hi>Popery,</hi> to throw all our Religion over-board; Sure we may venture to truſt God with our Perſons and Poſterity, whom we muſt truſt with our Souls. And yet really I muſt ſay if the King were upon His Throne, in as full Power as ever; we might if we were not wanting to our ſelves, give the King His Due, and yet keep our Conſci<g ref="char:EOLhyphen"/>ences
+<pb n="4" facs="tcp:37770:3" rendition="simple:additions"/>and our Laws too. And, as many honeſt Gentlemen ſtood their Ground: ſo (I hope) more hereafter, if ever there be occaſion, will follow their Example. But be that as it will, or as God pleaſes, why ſhould not we repoſe our whole Truſt in him that has heretofore wrought ſo many Wonders for us? <hi>This is the Victory that overcomes the World, even our Faith,</hi> Joh. 5.4.</p>
+            <p>In ſhort, by the Conſtitution of our Government as King <hi>Charles</hi> left it, and as King <hi>James</hi> the Second found and poſſeſs'd it, we are not only reſtrained from reſiſting the King, but we are bound to defend His Perſon, and ſupport His Crown and Dignity. My Queſti<g ref="char:EOLhyphen"/>on is therefore, what has diſolved that Conſtitution and ſet my Conſcience at liberty? Not the danger our Religon was it; for that directs and oblidges us to commit our ſelves to God: not the King's breaking in upon the Laws; for we are allowed upon no pretence whatſo<g ref="char:EOLhyphen"/>ever, to take up Arms againſt Him, He being accountable to none but God: not a Con<g ref="char:EOLhyphen"/>queſt, ſo that, to ſave our Conſciences, we muſt throw our Lives and Eſtates at the Con<g ref="char:EOLhyphen"/>querors Feet; for ſure no <hi>Engliſh-Man</hi> beſides his Duty, can brook ſuch a thought in point of Honour or Policy. Upon this ſhort view of the whole, I can much leſs ſee how we can put our Lawful King out, and put another into our Publick Prayers, in which we ought not to Diſſemble or Parget with God or Man.</p>
+            <p>Thus Sir, I have propoſed to you my Doubt, with moſt of thoſe Appendant Circum<g ref="char:EOLhyphen"/>ſtances which have encreaſed and ty'd it upon my Conſcience. If you can clear it, I im<g ref="char:EOLhyphen"/>plore your Charity to do it, <hi>Si Pergama dextrâ defendi poſſint certe<g ref="char:cmbAbbrStroke">̄</g> hâc.</hi> If not, I may ſay in Juſtice you are obliged to take my part, who proteſt ſolemnly before God, I have no other end but to diſcharge my Conſcience to God, his Church, and my Country, whatever Opinion or Uſage I may have among Men; God of his Mercy grant that Truth and Juſtice may prevail; and that unfeigned Religion and Piety may Flouriſh here, and make us the Praiſe, as we are now the Reproach of Chriſtianity. <hi>Amen.</hi>
+            </p>
+            <pb facs="tcp:37770:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
